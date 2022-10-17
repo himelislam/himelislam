@@ -1,6 +1,6 @@
 ### Hi, I'm Himel Islam
 #### A Front End Developer
-![I am a Front End Developer](https://media-exp1.licdn.com/dms/image/C5616AQGYlCUF0qp2Kw/profile-displaybackgroundimage-shrink_350_1400/0/1645278287446?e=1660176000&v=beta&t=nkraSkI8gXIeKq856XpHTQkbHTkw-yhJxQG-8dxkq0g)
+
 
 My name is Himel Islam I'm a Front End Engineer based in Sylhet, Banglades☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoy writing technical things ✍️ at my blog.
