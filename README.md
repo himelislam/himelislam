@@ -2,7 +2,7 @@
 #### A Front End Developer
 
 
-My name is Himel Islam I'm a Front End Engineer based in Sylhet, Banglades☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+My name is Himel Islam I'm a Front End Engineer based in Sylhet, Bangladesh☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoy writing technical things ✍️ at my blog.
 In my free time i do music. loves to play guitar, ukulele, and keyboard 🗺
 <h3 align="left">Connect with me:</h3>
