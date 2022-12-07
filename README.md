@@ -11,7 +11,7 @@ In my free time i do music. loves to play guitar, ukulele, and keyboard 🗺
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17716793/himel-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17716793/himel-islam" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alvi.himel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alvi.himel/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/alvi_himel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alvi_himel/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucp6kzuzmeigrief7x5pxrja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucp6kzuzmeigrief7x5pxrja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucp6kzuzmeigrief7x5pxrja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp6kzuzmeigrief7x5pxrja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
