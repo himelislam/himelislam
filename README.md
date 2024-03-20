@@ -9,8 +9,8 @@ In my free time i do music. loves to play guitar, ukulele, and keyboard 🗺
 <p align="left">
 <a href="https://www.linkedin.com/in/himel-islam-337993229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himel-islam-337993229/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17716793/himel-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17716793/himel-islam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/himelislam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alvi.himel/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alvi_himel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alvi_himel/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alvi.himel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alvi.himel/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/himelislam._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/himelislam._/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCP6KZuZMEIGriEF7X5PxrjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucp6kzuzmeigrief7x5pxrja" height="30" width="40" /></a>
 </p>
 
